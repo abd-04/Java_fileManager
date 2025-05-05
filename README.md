@@ -11,7 +11,9 @@ A file manager built in Java using core data structures and Swing for GUI. This 
 ## 🛠 Technologies Used
 - Java
 - Java Swing
-- Custom Tree and Stack implementations
+- Netbeans or any other IDE
 
-## 📦 How to Run
-1. Clone the repository:
+## 💡 Learning Outcomes
+- Applied **data structures** in a real-world simulation
+- Built an interactive GUI using **event-driven programming**
+- Improved understanding of **file system navigation** logic
